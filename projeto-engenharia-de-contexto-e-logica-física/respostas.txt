@@ -1,0 +1,9 @@
+Fazendo o levantamento físico de onde moro, percebi que um espaço que aparenta ser comum no dia a dia, tem diversos fatores que impactam diretamente na circulação, como portas, passagens e etc. Ao tentar organizar isso em uma ordem, ficou evidente como cada aspecto pode influenciar um cenário crítico, como uma catástrofe podendo até resultar em um incêndio.
+
+
+
+Quando tentei transformar portas e corredores em variáveis lógicas, a minha maior dificuldade foi simplificar a realidade. No mundo real, existem muitas variáveis ao mesmo tempo, mas no código eu precisei escolher apenas algumas e representar tudo de forma objetiva. Isso exigiu pensar de forma mais estruturada e organizada, usando condições como if/else para prever varias situações.
+
+
+
+Isso me fez pensar que na minha rotina diária o aprendizado de programação me ajuda a examinar desafios de maneira mais racional e sistemática. Ao invés de me perder em diversas situações, busco simplificar tudo para melhor entendimento e resolver uma parte de cada vez. Essa abordagem é melhor não apenas na programação, mas também em escolhas pessoais, acadêmicas e no desenvolvimento de atividades a parte.
