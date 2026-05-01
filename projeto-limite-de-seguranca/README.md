@@ -1,25 +1,44 @@
-🎬 Sistema de limite de segurança
- 
-📝 Descrição do Projeto
-Este projeto simula uma compra no valor que quiser com limite de 10.000,00, ao passar este valor o sistema emite uma mensagem de "Erro".
- 
-Desenvolvido como parte da disciplina de **Programação de Computadores**, o sistema processa grandes volumes de dados (datasets de filmes e avaliações) para identificar padrões de comportamento e similaridades entre títulos, utilizando algoritmos de aprendizado de máquina para prever o valor final da compra simulada.
- 
-http://googleusercontent.com/image_generation_content/0
-*Figura 1: Dashboard principal do sistema exibindo recomendações personalizadas.*
- 
-🚀 Tecnologias Utilizadas
-Linguagem: Python 3.10
-Ferramentas: Google Colab
- 
-📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando eficácia total.
-Redução de Ruído: Aprendi a aplicar a lógica neste código por meio do bloqueio de dados acima do inserido.
- 
-🔧 Como Executar
-1. Clone o repositório.
-2. Instale as dependências: `pip install -r requirements.txt`.
-3. Execute o comando: `python main.py`.
- 
----
-[Voltar ao início](https://github.com/chagasmatheus1211/Matheus_Chagas_Mauriz_Coque_Exercicio_01)
+LIMITE_SEGURANCA = 10000.0
+
+
+def analisar_vendas(v1, v2, v3):
+    global LIMITE_SEGURANCA
+    
+    vendas = [v1, v2, v3]
+   
+    media = sum(vendas) / len(vendas)
+    
+    print("\n--- RESULTADO DA ANÁLISE ---")
+    print(f"Média das vendas: R$ {media:.2f}")
+    
+    if media > LIMITE_SEGURANCA:
+        print("⚠️ SISTEMA EM QUARENTENA ⚠️")
+   
+    for venda in vendas:
+        if venda >= media * 5:
+            print("🔎 REVISÃO MANUAL NECESSÁRIA")
+            print(f"Venda suspeita detectada: R$ {venda:.2f}")
+            
+         
+            resposta = input("Essa venda é legítima? (s/n): ").lower()
+            
+            if resposta == 's':
+                novo_limite = float(input("Digite o novo LIMITE DE SEGURANÇA: "))
+                LIMITE_SEGURANCA = novo_limite
+                print(f"Novo limite definido: R$ {LIMITE_SEGURANCA:.2f}")
+  
+    print("\n--- TIPOS DE DADOS ---")
+    print(f"v1: {v1} | tipo: {type(v1)}")
+    print(f"v2: {v2} | tipo: {type(v2)}")
+    print(f"v3: {v3} | tipo: {type(v3)}")
+    print(f"media: {media} | tipo: {type(media)}")
+    print(f"LIMITE_SEGURANCA: {LIMITE_SEGURANCA} | tipo: {type(LIMITE_SEGURANCA)}")
+
+
+print("=== SISTEMA DE AUDITORIA DE VENDAS ===")
+
+venda1 = float(input("Digite o valor da Venda 1: "))
+venda2 = float(input("Digite o valor da Venda 2: "))
+venda3 = float(input("Digite o valor da Venda 3: "))
+
+analisar_vendas(venda1, venda2, venda3)
