@@ -2,11 +2,16 @@ LIMITE_SEGURANCA = 10000.0
 
 
 def analisar_vendas(v1, v2, v3):
-    global LIMITE_SEGURANCA
+global LIMITE_SEGURANCA
+
     vendas = [v1, v2, v3]
+    
     media = sum(vendas) / len(vendas)
+    
     print("\n--- RESULTADO DA ANÁLISE ---")
+    
     print(f"Média das vendas: R$ {media:.2f}")
+   
     if media > LIMITE_SEGURANCA:
         print("⚠️ SISTEMA EM QUARENTENA ⚠️")
     for venda in vendas:
