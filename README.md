@@ -30,10 +30,10 @@ Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Ci
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
  
 #### 🤖 Inteligência Artificial & Ciência de Dados
-![ChatGPT](https://img.shields.io/badge/chatgpt-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatgpt-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge&logo=x&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/deepseek-4D6BFE?style=for-the-badge&logo=ai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/deepseek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 ---
  
