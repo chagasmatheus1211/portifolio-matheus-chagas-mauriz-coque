@@ -30,9 +30,11 @@ Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Ci
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
  
 #### 🤖 Inteligência Artificial & Ciência de Dados
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
- 
+![ChatGPT](https://img.shields.io/badge/chatgpt-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/deepseek-4D6BFE?style=for-the-badge&logo=ai&logoColor=white)
+
 ---
  
 ### 📂 Portfólio de Projetos
