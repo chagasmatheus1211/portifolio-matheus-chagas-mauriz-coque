@@ -39,7 +39,7 @@ O sistema opera com base em dois pilares críticos:
    
 4. **Interação**
    
-Insira os valores das três últimas vendas quando solicitado pelo terminal. Se o sistema detectar uma venda suspeita, responda com s (sim) ou n (não) para prosseguir com a auditoria.
+   Insira os valores das três últimas vendas quando solicitado pelo terminal. Se o sistema detectar uma venda suspeita, responda com s (sim) ou n (não) para prosseguir com a auditoria.
 
 ---
 [Voltar ao início](https://github.com/chagasmatheus1211/portifolio-matheus-chagas-mauriz-coque/tree/main)
