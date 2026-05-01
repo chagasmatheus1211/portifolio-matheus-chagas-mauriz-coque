@@ -3,7 +3,7 @@
 📝 Descrição do Projeto
 Este projeto simula uma compra no valor que quiser com limite de 10.000,00, ao passar este valor o sistema emite uma mensagem de "Erro".
  
-Desenvolvido como parte da disciplina de **Inteligência Artificial (2024.1)**, o sistema processa grandes volumes de dados (datasets de filmes e avaliações) para identificar padrões de comportamento e similaridades entre títulos, utilizando algoritmos de aprendizado de máquina para prever a nota que um usuário daria a um filme ainda não assistido.
+Desenvolvido como parte da disciplina de **Programação de Computadores**, o sistema processa grandes volumes de dados (datasets de filmes e avaliações) para identificar padrões de comportamento e similaridades entre títulos, utilizando algoritmos de aprendizado de máquina para prever o valor final da compra simulada.
  
 http://googleusercontent.com/image_generation_content/0
 *Figura 1: Dashboard principal do sistema exibindo recomendações personalizadas.*
