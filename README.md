@@ -4,7 +4,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-https://www.linkedin.com/in/matheus-chagas-coque-b190ba39b/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-chagas-coque-b190ba39b/)
 chagasmatheus1211@gmail.com
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
