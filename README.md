@@ -48,7 +48,7 @@ Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Ci
 #### 💻 Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Limite de Segurança** | Um sistema onde se aplica um sistema de segurança para vendas com limite de R$10.000,00 para evitar fraudes bancarias | [Ver Projeto](projeto-limite-de-seguranca) |
+| **Limite de Segurança** | Este projeto consiste em uma ferramenta de análise e auditoria de transações financeiras desenvolvida em Python. O sistema foi projetado para identificar anomalias em fluxos de vendas, agindo como uma camada de segurança inicial para departamentos financeiros.| [Ver Projeto](projeto-limite-de-seguranca) |
 | **Engenharia de Soluções** | Este projeto consiste em um sistema automatizado para auxiliar na triagem de pacientes com diabetes em unidades de saúde. [cite_start] O objetivo principal é agilizar a identificação de casos críticos de hiperglicemia, garantindo que pacientes com níveis de glicose perigosamente elevados recebam atendimento prioritário e imediato[cite: 1, 3, 7]. | [Ver Projeto](projeto-limite-de-seguranca) |
 
 ---
