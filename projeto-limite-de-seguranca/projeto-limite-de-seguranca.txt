@@ -22,4 +22,4 @@ Redução de Ruído: Aprendi a aplicar a lógica neste código por meio do bloqu
 3. Execute o comando: `python main.py`.
  
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-usuario)
+[Voltar ao início](https://github.com/chagasmatheus1211)
