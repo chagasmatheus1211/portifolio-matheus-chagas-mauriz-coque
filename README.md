@@ -48,9 +48,10 @@ Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Ci
 #### 💻 Programação de Computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Limite de segurança** | Um sistema onde se aplica um sistema de segurança para vendas com limite de R$10.000,00 para evitar fraudes bancarias | [Ver Projeto](projeto-limite-de-seguranca) |
+| **Limite de Segurança** | Um sistema onde se aplica um sistema de segurança para vendas com limite de R$10.000,00 para evitar fraudes bancarias | [Ver Projeto](projeto-limite-de-seguranca) |
+| :--- | :--- | :---: |
+| **Engenharia de Soluções** | Um sistema onde se aplica um sistema de segurança para vendas com limite de R$10.000,00 para evitar fraudes bancarias | [Ver Projeto](projeto-limite-de-seguranca) |
 
- 
 ---
  
 ### 🏗 Estrutura do Repositório
