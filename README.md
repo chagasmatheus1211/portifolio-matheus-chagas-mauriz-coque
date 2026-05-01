@@ -36,7 +36,7 @@ Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Ci
 ![DeepSeek](https://img.shields.io/badge/deepseek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-#### 🖌️ IDES & Editores
+#### 🖌️ IDES e Editores
 ![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -45,9 +45,9 @@ Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Ci
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 💻 Programação de Computadores
 | Projeto | Descrição | Link |
-| :--- | :--- | :---: |
+| Limite de segurança | Um sistema onde se aplica um sistema de segurança para vendas com limite de R$10.000,00 para evitar fraudes bancarias. | :---: |
 | **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
  
 #### 🤖 Inteligência Artificial
