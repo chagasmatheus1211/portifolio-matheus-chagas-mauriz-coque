@@ -49,7 +49,6 @@ Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Ci
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Limite de Segurança** | Um sistema onde se aplica um sistema de segurança para vendas com limite de R$10.000,00 para evitar fraudes bancarias | [Ver Projeto](projeto-limite-de-seguranca) |
-| :--- | :--- | :---: |
 | **Engenharia de Soluções** | Um sistema onde se aplica um sistema de segurança para vendas com limite de R$10.000,00 para evitar fraudes bancarias | [Ver Projeto](projeto-limite-de-seguranca) |
 
 ---
