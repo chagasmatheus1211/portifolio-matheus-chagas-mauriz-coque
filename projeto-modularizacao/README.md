@@ -1,19 +1,19 @@
 # 💸 Sistema de Automação de Troco (Cashier Flow)
 
 ## 📝 Descrição do Projeto
-[cite_start]Este projeto consiste em um algoritmo lógico para a gestão de transações em pontos de venda, focado na validação de pagamentos e na **decomposição eficiente de troco**[cite: 24, 31]. [cite_start]O objetivo principal é automatizar o cálculo financeiro e determinar a menor quantidade de cédulas necessárias para retornar ao cliente, minimizando erros operacionais no caixa[cite: 31, 51].
+Este projeto consiste em um algoritmo lógico para a gestão de transações em pontos de venda, focado na validação de pagamentos e na **decomposição eficiente de troco**[cite: 24, 31]. [cite_start]O objetivo principal é automatizar o cálculo financeiro e determinar a menor quantidade de cédulas necessárias para retornar ao cliente, minimizando erros operacionais no caixa.
 
-[cite_start]Desenvolvido como um modelo de lógica de programação, o sistema valida se o valor pago é suficiente para cobrir a compra[cite: 24, 25]. [cite_start]Caso positivo, ele processa o saldo e utiliza operadores matemáticos de divisão inteira e resto para fracionar o valor em notas de R$ 100, R$ 50, R$ 10, R$ 5 e R$ 1[cite: 32, 34, 36, 38, 40, 42].
+Desenvolvido como um modelo de lógica de programação, o sistema valida se o valor pago é suficiente para cobrir a compra[cite: 24, 25]. [cite_start]Caso positivo, ele processa o saldo e utiliza operadores matemáticos de divisão inteira e resto para fracionar o valor em notas de R$ 100, R$ 50, R$ 10, R$ 5 e R$ 1.
 
 [Image representing a retail point of sale system with currency denominations]
 *Figura 1: Representação do fluxo de validação de pagamento e distribuição de cédulas.*
 
 ## ⚙️ Funcionalidades e Lógica
 O sistema é estruturado em funções modulares para garantir a manutenibilidade:
-* [cite_start]**Validação de Pagamento:** Verifica se o valor recebido é maior ou igual ao custo da compra[cite: 24, 25].
-* [cite_start]**Cálculo de Saldo:** Subtrai o valor da compra do valor pago para determinar o troco bruto[cite: 29].
-* [cite_start]**Decomposição de Cédulas:** Aplica a lógica de `mod` (resto) e `div` (quociente) para distribuir o valor entre diferentes denominações de notas[cite: 32, 33].
-* [cite_start]**Tratamento de Exceções:** Retorna mensagens de "Pagamento insuficiente" caso a transação não possa ser concluída[cite: 52, 53].
+* **Validação de Pagamento:** Verifica se o valor recebido é maior ou igual ao custo da compra.
+* **Cálculo de Saldo:** Subtrai o valor da compra do valor pago para determinar o troco bruto.
+* **Decomposição de Cédulas:** Aplica a lógica de `mod` (resto) e `div` (quociente) para distribuir o valor entre diferentes denominações de notas.
+* **Tratamento de Exceções:** Retorna mensagens de "Pagamento insuficiente" caso a transação não possa ser concluída.
 
 ## 🚀 Tecnologias Utilizadas
 * [cite_start]**Linguagem:** Pseudocódigo / Lógica de Programação[cite: 24, 44].
