@@ -34,6 +34,12 @@ Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Ci
 ![Gemini](https://img.shields.io/badge/gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge&logo=x&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/deepseek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
+![Google Colab](https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+
+#### 🖌️ IDES & Editores
+![Canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
  
