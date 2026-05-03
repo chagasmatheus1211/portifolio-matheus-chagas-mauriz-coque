@@ -11,7 +11,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Engenharia de Sodftware na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em desenvolvimento front-end.
+Atualmente cursando o 1º período de Engenharia de Software na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em desenvolvimento front-end.
  
 * **Habilidades Técnicas:** HTML, SQL, PYTHON.
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva, pensamento crítico e soluções funcionais.
