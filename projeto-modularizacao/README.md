@@ -34,4 +34,4 @@ Como o projeto está em formato de algoritmo lógico (pseudocódigo):
 3.  O sistema retornará o valor total do troco e a lista de notas a serem entregues.
 
 ---
-[Voltar ao início](https://github.com/chagasmatheus1211/portifolio-matheus-chagas-mauriz-coque/tree/main)
+[Voltar ao início](https://github.com/chagasmatheus1211/portfolio-matheus-chagas-mauriz-coque/tree/main)
