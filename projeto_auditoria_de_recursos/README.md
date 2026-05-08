@@ -33,4 +33,4 @@ Este projeto foi construído utilizando Python puro (Standard Library), com foco
    git clone https://github.com/SeuUsuario/seu-repositorio.git
 
    ---
-[Voltar ao início](https://github.com/chagasmatheus1211/portifolio-matheus-chagas-mauriz-coque/tree/main)
+[Voltar ao início](https://github.com/chagasmatheus1211/portfolio-matheus-chagas-mauriz-coque/tree/main)
