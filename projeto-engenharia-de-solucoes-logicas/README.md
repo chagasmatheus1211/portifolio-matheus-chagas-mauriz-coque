@@ -34,4 +34,4 @@ Este projeto consiste em um sistema automatizado para auxiliar na **triagem de p
 4. **Insira os dados solicitados no console para obter o diagnóstico de triagem.**
 
    ---
-[Voltar ao início](https://github.com/chagasmatheus1211/portifolio-matheus-chagas-mauriz-coque/tree/main)
+[Voltar ao início](https://github.com/chagasmatheus1211/portfolio-matheus-chagas-mauriz-coque/tree/main)
